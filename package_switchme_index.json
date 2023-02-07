@@ -122,8 +122,8 @@
           "architecture": "samd",
           "category": "Rebug",
           "version": "1.0.0",
-          "archiveFileName": "RebugSwitchME_BoardFile_v1.zip",
-          "url": "https://github.com/Aboshi/SwitchME/files/2357933/RebugSwitchME_BoardFile_v1.zip",
+          "archiveFileName": "SwitchME-BoardManager_v1.zip",
+          "url": "https://github.com/defexer/SwitchME/raw/master/SwitchME-BoardManager_v1.zip",
           "name": "SwitchME SAMD Boards",
           "toolsDependencies": [
             {
